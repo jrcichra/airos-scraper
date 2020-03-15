@@ -1,0 +1,10 @@
+{
+    "db_hostname": "mydb",
+    "db_database": "ubnt",
+    "db_username": "ubnt",
+    "db_password": "dbpassword",
+    "hostname": "10.0.0.5",
+    "protocol": "http",
+    "username": "ubnt",
+    "password": "password"
+}
